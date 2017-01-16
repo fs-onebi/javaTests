@@ -1,0 +1,5 @@
+target/
+*.txt
+.classpath
+.project
+.settings
